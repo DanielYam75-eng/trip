@@ -135,7 +135,22 @@ Key sights:
 - Balkan karst limestone mountains  
 - Adriatic coastal sections  
 - Deep river valleys everywhere  
-- Forested alpine ridges  
+- Forested alpine ridges
+
+ ## ❌ Eliminate: Trans Dinarica Cycle Route
+
+### Why
+
+MTB: moderate (7/10) – many gravel/forest roads, limited sustained singletrack  
+Mountains: medium elevation, not true high-alpine terrain  
+Adventure: good but softened by frequent villages and easy logistics  
+Swimming: excellent, but no longer a differentiator at this stage  
+Crowds: low-medium, but route is relatively accessible  
+
+### Verdict
+Great Balkan bikepacking route, but less technical and less extreme than remaining expedition-level routes
+
+➡️ Removed
 
 ---
 
@@ -156,10 +171,24 @@ Special about it:
 - Limestone cliffs and caves  
 - Lakes like Lac de Chalain  
 - Rolling green ridgelines  
+ ## ❌ Eliminate: Grande Traversée du Jura
+
+### Why
+
+MTB: good but not elite (8/10) – mostly forest flow trails  
+Mountains: medium elevation, no high alpine terrain  
+Adventure: low exposure, easy navigation, frequent villages  
+Swimming: strong, but no longer unique in remaining options  
+Crowds: moderate, more developed region  
+
+### Verdict
+Beautiful forest + lake ride, but lacks the scale and technical MTB required for your expedition goals
+
+➡️ Removed
 
 ---
 
-# 8. Grande Traversée du Massif Central — quiet volcanic France
+# 8. Grande Traversée du Massif Central — quiet volcanic France 
 
 Difficulty: medium (7/10)  
 Singletrack: moderate (6/10)  
@@ -176,6 +205,21 @@ Special about it:
 - Old lava domes  
 - Forested empty countryside  
 
+
+## ❌ Eliminate: Grande Traversée du Massif Central
+
+### Why
+
+MTB: not technical enough (6/10)  
+Mountains: too low / volcanic plateaus  
+Adventure: low intensity, easy logistics  
+Swimming: average, not special  
+Competition: worse than Pyrenees, Balkans, Jura, Dinaric
+
+### Verdict
+Nice touring route, but not an MTB expedition level ride
+
+➡️ Removed
 ---
 
 # 9. Westfjords Way — Icelandic wilderness
@@ -193,8 +237,23 @@ Distance: ~900–1000 km
 Special about it:
 - Massive fjords  
 - Arctic cliffs and waterfalls  
-- Seabird colonies  
+- Seabird colonies
+- 
+ ## ❌ Eliminate: Westfjords Way (Iceland)
 
+### Why
+
+MTB: mostly gravel, weak singletrack  
+Mountains: coastal fjords, not alpine terrain  
+Swimming: cold + limited (hot springs/ocean only)  
+Cost: very expensive  
+Resupply: sparse and weather-dependent  
+Adventure: high scenery, but not MTB-focused expedition
+
+### Verdict
+Epic landscapes, but not a true MTB + mountain + swimming expedition route
+
+➡️ Removed
 ---
 
 # 10. Tian Shan Traverse (Kyrgyzstan) — absolute expedition wilderness
@@ -217,6 +276,21 @@ Key sights:
 - Issyk-Kul Lake (massive mountain lake)  
 - Terskey Alatau & Tian Shan glacier ranges  
 - Remote yurt camps in alpine valleys  
-- High passes like Tosor & Ak-Suu region  
+- High passes like Tosor & Ak-Suu region
+  
+ ## ❌ Eliminate: Kyrgyzstan (Tian Shan + Celestial Divide)
+
+### Why
+
+Resupply: too extreme (3–4/10) – often 5–7+ days without shops  
+Logistics: expedition-level (permits, borders, remote rescue)  
+Swimming: weak (cold glacier rivers, few usable lakes for swimming)  
+MTB flow: limited – long hike-a-bike + very rough terrain  
+Trip fit: exceeds 3-week “self-supported adventure” comfort level  
+
+### Verdict
+World-class expedition destination, but too remote and logistically heavy for your MTB + swimming + frequent resupply goals
+
+➡️ Removed
 
 ---
