@@ -69,8 +69,28 @@ Key sights:
 - Medieval mountain villages  
 
 ---
+## 4. Hope1000 (Swiss Alps Race Route)
 
-# 4. Alps Divide — hardest technical MTB in Europe
+Difficulty: extreme (10/10)  
+Singletrack: elite (10/10)  
+Views: outstanding (10/10)  
+Resupply: very good (10/10) – villages/towns every 1–2 days  
+Wild camping: moderate (7/10) – restricted in Switzerland, stealth required  
+Swimming: very good (8/10) – alpine lakes and rivers, cold but frequent  
+Cost: expensive (3/10)  
+Crowds: medium (6/10)  
+Distance: ~1000 km  
+
+Special about it:  
+One of the most intense MTB race routes in Europe, crossing the Swiss Alps with constant high passes, steep climbs, and world-class trail density.
+
+Key sights:
+- Swiss Alpine passes (Furka, Grimsel, Susten, etc.)  
+- Glacier valleys and dramatic alpine walls  
+- Suspension bridges over deep valleys  
+- High-altitude lakes and ridgelines  
+
+# 5. Alps Divide — hardest technical MTB in Europe
 
 Difficulty: extreme (10/10)  
 Singletrack: elite (10/10)  
@@ -93,7 +113,7 @@ Key sights:
 
 ---
 
-# 5. Hellenic Mountain Race Route — underrated technical beast
+# 6. Hellenic Mountain Race Route — underrated technical beast
 
 Difficulty: extreme (10/10)  
 Singletrack: elite (10/10)  
@@ -116,7 +136,7 @@ Key sights:
 
 ---
 
-# 6. Trans Dinarica Cycle Route — Balkan flow adventure
+# 7. Trans Dinarica Cycle Route — Balkan flow adventure
 
 Difficulty: high (8/10)  
 Singletrack: good (7/10)  
@@ -154,7 +174,7 @@ Great Balkan bikepacking route, but less technical and less extreme than remaini
 
 ---
 
-# 7. Grande Traversée du Jura — forest + lakes paradise
+# 8. Grande Traversée du Jura — forest + lakes paradise
 
 Difficulty: medium (7/10)  
 Singletrack: good (8/10)  
@@ -188,7 +208,7 @@ Beautiful forest + lake ride, but lacks the scale and technical MTB required for
 
 ---
 
-# 8. Grande Traversée du Massif Central — quiet volcanic France 
+# 9. Grande Traversée du Massif Central — quiet volcanic France 
 
 Difficulty: medium (7/10)  
 Singletrack: moderate (6/10)  
@@ -222,7 +242,7 @@ Nice touring route, but not an MTB expedition level ride
 ➡️ Removed
 ---
 
-# 9. Westfjords Way — Icelandic wilderness
+# 10. Westfjords Way — Icelandic wilderness
 
 Difficulty: very high (9/10)  
 Singletrack: moderate (6/10)  
@@ -256,7 +276,7 @@ Epic landscapes, but not a true MTB + mountain + swimming expedition route
 ➡️ Removed
 ---
 
-# 10. Tian Shan Traverse (Kyrgyzstan) — absolute expedition wilderness
+# 11. Tian Shan Traverse (Kyrgyzstan) — absolute expedition wilderness
 
 Difficulty: extreme (10/10)  
 Singletrack: strong (9/10)  
